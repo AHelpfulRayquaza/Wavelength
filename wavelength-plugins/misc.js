@@ -169,23 +169,14 @@ exports.commands = {
 		let popup = "|html|" + "<font size=5 color=#0066ff><u><b>Wavelength Credits</b></u></font><br />" +
 			"<br />" +
 			"<u><b>Server Maintainers:</u></b><br />" +
-			"- " + WL.nameColor('Desokoro', true) + " (Owner, Sysadmin, Policy Admin, Server Host)<br />" +
-			"- " + WL.nameColor('HoeenHero', true) + " (Owner, Sysadmin, Technical Admin)<br />" +
+			"- " + WL.nameColor('Giovanni The Best', true) + " (Owner, Sysadmin, Policy Admin, Technical Admin)<br />" +
+			"- " + WL.nameColor('HoeenHero', true) + " (Owner, Server Host, Sysadmin, Technical Admin, Policy Admin)<br />" +
 			"<br />" +
 			"<u><b>Major Contributors:</b></u><br />" +
-			"- " + WL.nameColor('CubsFan38', true) + " (Community Leader)<br />" +
-			"- " + WL.nameColor('Kraken Mare', true) + " (Community Admin, Development)<br />" +
-			"- " + WL.nameColor('MechSteelix', true) + " (Policy Leader)<br/>" +
-			"- " + WL.nameColor('Electric Z', true) + " (Policy Admin)<br />" +
-			"- " + WL.nameColor('Opple', true) + " (Community Leader)<br />" +
-			"- " + WL.nameColor('Tsunami Prince', true) + " (Community Admin)<br/>" +
+			"- " + WL.nameColor('SparkyHeliolisk', true) + " (Community and Technical Admin, Development)<br />" +
 			"<br />" +
 			"<u><b>Contributors:</b></u><br />" +
-			"- " + WL.nameColor('Volco', true) + " (Development)<br />" +
-			"- " + WL.nameColor('Ashley the Pikachu', true) + " (Spriting, Digimon Project)<br />" +
-			"- " + WL.nameColor('Insist', true) + " (Development)<br />" +
-			"- " + WL.nameColor('Lycanium Z', true) + " (Development)<br />" +
-			"- " + WL.nameColor('wgc', true) + " (Development)<br />" +
+			
 			"<br />" +
 			"<u><b>Retired Staff:</b></u><br />" +
 			"- " + WL.nameColor('Mystifi', true) + " (Former Owner, Sysadmin and Technical Admin)<br />" +
